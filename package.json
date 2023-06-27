@@ -1,0 +1,17 @@
+{
+  "name": "jorge-aguirre",
+  "description": "Jorge Aguirre is now in npm",
+  "version": "1.0.0",
+  "author": "Jorge Aguirre <jorge@aguirre.sexy>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/code-jorge/jorge-aguirre.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "main": "./src/main.js",
+  "bin": "./bin/main",
+  "scripts": {
+    "test": "node --test test/"
+  }
+}

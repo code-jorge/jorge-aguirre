@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+'use strict';
+
+const message = require('../src/main');
+
+const input = process.argv.slice(2).join(' ');
+console.log(message(input));
